@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
