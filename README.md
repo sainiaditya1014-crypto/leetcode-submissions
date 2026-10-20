@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1598-crawler-log-folder) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3174-clear-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
