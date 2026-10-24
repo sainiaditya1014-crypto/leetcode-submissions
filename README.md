@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/1598-crawler-log-folder) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3174-clear-digits) |
 ## Stack
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sainiaditya1014-crypto/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
